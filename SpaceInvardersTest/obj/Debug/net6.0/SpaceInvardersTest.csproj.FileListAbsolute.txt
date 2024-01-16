@@ -1,0 +1,6 @@
+C:\Users\Karolina\source\repos\SpaceInvarders\SpaceInvardersTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Karolina\source\repos\SpaceInvarders\SpaceInvardersTest\obj\Debug\net6.0\SpaceInvardersTest.csproj.AssemblyReference.cache
+C:\Users\Karolina\source\repos\SpaceInvarders\SpaceInvardersTest\obj\Debug\net6.0\SpaceInvardersTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\source\repos\SpaceInvarders\SpaceInvardersTest\obj\Debug\net6.0\SpaceInvardersTest.AssemblyInfoInputs.cache
+C:\Users\Karolina\source\repos\SpaceInvarders\SpaceInvardersTest\obj\Debug\net6.0\SpaceInvardersTest.AssemblyInfo.cs
+C:\Users\Karolina\source\repos\SpaceInvarders\SpaceInvardersTest\obj\Debug\net6.0\SpaceInvardersTest.csproj.CoreCompileInputs.cache

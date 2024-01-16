@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SpaceInvarders.GameObjectFactory
 {
-    class GroundFactory : GameObjectFactory
+     class GroundFactory : GameObjectFactory
     {
         public GroundFactory(GameSettings gameSettings)
             : base(gameSettings)//persiunciam

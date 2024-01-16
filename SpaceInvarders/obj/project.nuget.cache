@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iU2GMXiayOOyyVOPooJwMw5SU1A5bjRC+ON7+jo56xpWuyWKIN1kCaHFoPkhOaHKxlnHmr9joLfse/O6sJHkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karolina\\source\\repos\\SpaceInvarders\\SpaceInvarders\\SpaceInvarders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karolina\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SpaceInvarders
 {
-    class Scene
+    internal class Scene
     {
         GameSettings _gameSettings;
         public List<GameObject> swarm; //laukas

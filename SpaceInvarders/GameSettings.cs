@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SpaceInvarders
 {
-    class GameSettings
+    public class GameSettings
     {
 
         public int ConsoleWidth { get; set; } = 80;
